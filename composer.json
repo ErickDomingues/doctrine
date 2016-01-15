@@ -12,7 +12,7 @@
             },
             "autoload":
                     {
-                        "prs-4":
+                        "psr-4":
                         {
                            "Code\\Sistema\\":"src/Code/Sistema/" 
                         }
