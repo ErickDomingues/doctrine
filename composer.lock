@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "b874800ede6c9694072db6bd96d4cfc6",
+    "hash": "ba0287cfbe330be6f6d4d015558fe6c2",
     "content-hash": "ebd0db451c8f189d299c8af87b52dc53",
     "packages": [
         {
@@ -1213,16 +1213,16 @@
         },
         {
             "name": "symfony/twig-bridge",
-            "version": "v2.8.1",
+            "version": "v2.8.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/twig-bridge.git",
-                "reference": "39995c1dfe1d1fbfc6605df6d02774d33ac3ce3d"
+                "reference": "e33b512de4b769a1c728cd6775e22668ae89fca9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/twig-bridge/zipball/39995c1dfe1d1fbfc6605df6d02774d33ac3ce3d",
-                "reference": "39995c1dfe1d1fbfc6605df6d02774d33ac3ce3d",
+                "url": "https://api.github.com/repos/symfony/twig-bridge/zipball/e33b512de4b769a1c728cd6775e22668ae89fca9",
+                "reference": "e33b512de4b769a1c728cd6775e22668ae89fca9",
                 "shasum": ""
             },
             "require": {
@@ -1290,20 +1290,20 @@
             ],
             "description": "Symfony Twig Bridge",
             "homepage": "https://symfony.com",
-            "time": "2015-12-07 21:56:39"
+            "time": "2016-01-12 17:46:01"
         },
         {
             "name": "twig/twig",
-            "version": "v1.23.1",
+            "version": "v1.23.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/twigphp/Twig.git",
-                "reference": "d9b6333ae8dd2c8e3fd256e127548def0bc614c6"
+                "reference": "ae53fc2c312fdee63773b75cb570304f85388b08"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twigphp/Twig/zipball/d9b6333ae8dd2c8e3fd256e127548def0bc614c6",
-                "reference": "d9b6333ae8dd2c8e3fd256e127548def0bc614c6",
+                "url": "https://api.github.com/repos/twigphp/Twig/zipball/ae53fc2c312fdee63773b75cb570304f85388b08",
+                "reference": "ae53fc2c312fdee63773b75cb570304f85388b08",
                 "shasum": ""
             },
             "require": {
@@ -1351,7 +1351,7 @@
             "keywords": [
                 "templating"
             ],
-            "time": "2015-11-05 12:49:06"
+            "time": "2016-01-11 14:02:19"
         }
     ],
     "packages-dev": [],
